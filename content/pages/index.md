@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: 'Your Restaurant, Reimagined.'
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      A full branding and consultation experience that takes the guesswork out
+      of building your digital presence.
     actions:
       - label: Learn More
         url: /features
